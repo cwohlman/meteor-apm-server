@@ -1,0 +1,8 @@
+{
+  "admin_user": {
+    "username": "admin",
+    "email": "admin@admin.com",
+    "password": "admin",
+    "plan": "business"
+  }
+}
