@@ -1,0 +1,9 @@
+{
+  "kadira": {
+    "appId": "8gmfyDwrRDxhQ9aRm",
+    "appSecret": "fd95fe20-521c-4daf-8cdd-9555a8a0d486",
+    "options": {
+      "endpoint": "http://localhost:11011"
+    }
+  }
+}
